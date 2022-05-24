@@ -1,0 +1,3 @@
+[submodule "practice-git-flow"]
+	path = practice-git-flow
+	url = https://github.com/choheejin/practice-git-flow.git
